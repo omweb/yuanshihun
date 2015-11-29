@@ -1,0 +1,1 @@
+<?php if ($fn_include = $this->_include("list.html")) include($fn_include); ?><script type="text/javascript" src="http://www.yuanshihun.com/index.php?c=cron"></script>
